@@ -1,5 +1,5 @@
-# Ball_Game_Final_Project
-  This Simple Ball Program In Python is to hit all of the targets as many times as possible in order to gain the greatest score possible. Each time the ball hits the target, you will receive one point, and if it hits two targets, you will receive two points. The game will appear to be finished in the game window if the player fails to catch the ball on the bar.
+# Bounce_Ball_Game_Final_Project
+  This Simple Bounce Ball Program In Python is to hit all of the targets as many times as possible in order to gain the greatest score possible. Each time the ball hits the target, you will receive one point, and if it hits two targets, you will receive two points. The game will appear to be finished in the game window if the player fails to catch the ball on the bar.
 
 # How can we play Bouncing Ball Game?
 

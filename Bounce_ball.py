@@ -163,7 +163,7 @@ def start_game(event):
                     root.update_idletasks()
                     root.update()
                     time.sleep(0.01)
-                    if ball.hit == 95:
+                    if ball.hit == 30:
                         canvas.create_text(250, 250, text="YOU WON !!", fill="yellow", font="Courier 24 ")
                         root.update_idletasks()
                         root.update()
